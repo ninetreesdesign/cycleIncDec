@@ -1,9 +1,8 @@
-a function to increment or decrement a value and cycle back after min/max
+a function to increment or decrement a value and cycle back after min/max.
+Output:
 
-Output
-
-Test cycleIncDec()
-
+    Test cycleIncDec()
+    
     z:  11:      0    1    2    3    4    5    6    0    1    2    3    4    5    6    0
     z:   4:      3    2    1    0   -1   -2   -3   -4   -5   -6   -7   -8   10    9    8
     z:  -8:    -13  -12  -11  -10   -9   -8  -13  -12  -11  -10   -9   -8  -13  -12  -11
